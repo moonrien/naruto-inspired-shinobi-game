@@ -1,0 +1,1 @@
+Hey everyone, this is a simple text-based game inspired by Naruto. Basically you are a shinobi who go on missions and fight some fights with jutsus' you choose to learn. Feel free to expand and contribute :)
