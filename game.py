@@ -125,7 +125,7 @@ def jonin_training():
         print("Invalid choice. Try again.")
         jonin_training()
 
-# Example of jutsu descriptions
+
 jutsu = {
     "Shadow Clone": "Creates shadows to confuse the enemy.",
     "Water Style: Water Tornado": "Creates a powerful water tornado.",
@@ -133,7 +133,7 @@ jutsu = {
     "Water Style: Water Dragon Explosion": "Causes a water dragon explosion."
 }
 
-# Game storyline
+
 print("Welcome, young ninja! You have come to learn the Shadow Clone technique.")
 print("How many clones would you like to create? Enter a number:")
 number_of_clones = int(input())
